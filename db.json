@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Moj novi blog",
+      "body": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ",
+      "author": "Matic",
+      "id": 2
+    },
+    {
+      "title": "Svet je lep",
+      "body": "The world we live in is truly beautiful. Whether you're admiring the grandeur of a mountain range, the serenity of a lake, or the lushness of a forest, nature never ceases to amaze us with its diversity and wonder. But the beauty of the world isn't limited to just the natural environment. The man-made architecture and cultural heritage of cities are just as breathtaking, from the ancient ruins of the pyramids to the modern skylines of metropolises. The vibrant colors, patterns and styles of traditional clothing worn by people across the globe are also a testament to the diversity of human expression. Whether you're taking a hike in the wilderness or strolling through the streets of a bustling city, the world is full of beauty to be discovered. It's up to us to take the time to appreciate it, and do our part to preserve it for future generations. Let's take a moment to truly take in the world around us, and appreciate the simple yet profound beauty of life.",
+      "author": "ChatGPT",
+      "id": 1
+    },
+    {
+      "title": "Tehnologija gre dalje",
+      "body": "Technology is the driving force behind many of the advancements we see in the world today. From smartphones and laptops to artificial intelligence and renewable energy, technology is shaping the way we live, work, and interact with one another. One of the most significant technological advancements in recent years is the widespread adoption of smartphones. These devices have become an integral part of our daily lives, allowing us to stay connected with loved ones, access information, and complete tasks from anywhere, at any time. Overall, technology is a powerful enabler that is driving progress in a wide range of fields. It is changing the way we live and work and is helping to address some of the world's most pressing challenges. While there are certainly challenges and drawbacks to technology, its ability to improve our lives and make the world a better place cannot be denied.",
+      "author": "ChatGPT",
+      "id": 3
+    }
+  ]
+}
